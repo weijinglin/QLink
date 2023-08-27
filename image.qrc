@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/endcar.gif</file>
+        <file>images/p1.jpg</file>
+        <file>images/p7.jpg</file>
+        <file>images/p11.jpg</file>
+        <file>images/pc1.jpg</file>
+        <file>images/pc2.jpg</file>
+        <file>images/pc3.jpg</file>
+        <file>images/pc4.jpg</file>
+        <file>images/pc5.jpg</file>
+        <file>images/pc6.jpg</file>
+        <file>images/pc7.jpg</file>
+        <file>images/pc8.jpg</file>
+        <file>images/pc9.jpg</file>
+        <file>images/pc10.jpg</file>
+        <file>images/pc11.jpg</file>
+        <file>images/play2.jpg</file>
+        <file>images/play3.jpg</file>
+        <file>images/sk1.jpg</file>
+        <file>images/sk2.jpg</file>
+        <file>images/sk3.jpg</file>
+        <file>images/sk4.jpg</file>
+        <file>images/sk5.png</file>
+        <file>images/sk6.jfif</file>
+        <file>images/button.jpg</file>
+    </qresource>
+</RCC>
